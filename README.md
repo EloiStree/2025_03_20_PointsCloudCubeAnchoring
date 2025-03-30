@@ -7,3 +7,4 @@ Same concept as ThreePointsTag, but designed specifically for a room.
 Walls cannot be passed through with your hands or controller, so simply touch the wall in all directions. This generates a cube. The point where you start the calibration determines the room's orientation.
 
 This is a good idea for tiny houses, small rooms, and vans. However, for much larger rooms or those with a missing wall, this calibration is not suitable at all.
+![image](https://github.com/user-attachments/assets/1996ea9f-6421-4e32-85a9-3b9d043c34a0)
